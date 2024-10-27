@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 本科毕设/benchmark/5 TWAS/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/02 本科毕设/benchmark/5 TWAS/"}
 ---
 
 
